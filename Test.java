@@ -8,7 +8,7 @@ import scanner.*;
 public class Test {
 	public static void main(String[] args){
 		
-		File file = new File("scanner/scanner.java");
+		File file = new File("./scanner/scanner.java");
 		Reader r ;
 		LookForwardReader scr;
 		LookForwardScanner lfs;
